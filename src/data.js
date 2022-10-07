@@ -116,7 +116,7 @@ export const data = [
       id: 15,
       name: "Pumpkin",
       searchTerm: "vegetables ",
-      price: 284.99,
+      price: 2.99,
       image: "https://images.unsplash.com/photo-1570586437263-ab629fccc818?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
     }
   ]
